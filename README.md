@@ -1,1 +1,1 @@
-# project_cp2
+# project_cp2 (미국 금융서비스 고객불만 주제 분류)
